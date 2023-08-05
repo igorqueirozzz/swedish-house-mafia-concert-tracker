@@ -6,9 +6,12 @@ This is a study project developed as part of my programming learning journey. Th
 
 # Key Features
 
-Performs web scraping on the Swedish House Mafia's website to fetch the latest information about concerts.
-Displays the collected data in an organized list, making it easy for users to view and access.
-Enables users to explore the most recent updates from the electronic music group in one place.
+* Performs web scraping on the Swedish House Mafia's website to fetch the latest information about concerts.
+* Displays the collected data in an organized list, making it easy for users to view and access.
+* Enables users to explore the most recent updates from the electronic music group in one place.
+* Utilizes the MVVM (Model-View-ViewModel) architecture for clear separation of concerns.
+* Employs ViewModel to manage and provide data to the UI, promoting a more robust and testable codebase.
+* Implements UI State management using StateFlow, ensuring a reactive and efficient user interface.
 
 # Contributions
 
