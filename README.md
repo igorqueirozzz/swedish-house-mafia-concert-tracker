@@ -12,6 +12,7 @@ This is a study project developed as part of my programming learning journey. Th
 * Utilizes the MVVM (Model-View-ViewModel) architecture for clear separation of concerns.
 * Employs ViewModel to manage and provide data to the UI, promoting a more robust and testable codebase.
 * Implements UI State management using StateFlow, ensuring a reactive and efficient user interface.
+* Utilizes Jetpack Compose with Material 3.
 
 # Contributions
 
