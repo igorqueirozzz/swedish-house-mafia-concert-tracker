@@ -1,5 +1,6 @@
 package dev.queiroz.swedishhousemafiaeventtracker.network
 
+import dev.queiroz.swedishhousemafiaeventtracker.data.remote.EventDataSource
 import dev.queiroz.swedishhousemafiaeventtracker.model.Event
 import org.jsoup.Jsoup
 import org.jsoup.nodes.Element

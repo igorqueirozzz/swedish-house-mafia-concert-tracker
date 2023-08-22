@@ -1,14 +1,7 @@
 package dev.queiroz.swedishhousemafiaeventtracker
 
 import android.app.Application
-import dev.queiroz.swedishhousemafiaeventtracker.data.ApplicationContainer
-import dev.queiroz.swedishhousemafiaeventtracker.data.DefaultApplicationContainer
+import dagger.hilt.android.HiltAndroidApp
 
-class SHMApplication : Application() {
-    lateinit var container : ApplicationContainer
-
-    override fun onCreate() {
-        super.onCreate()
-        container = DefaultApplicationContainer()
-    }
-}
+@HiltAndroidApp
+class SHMApplication : Application()
