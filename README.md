@@ -10,6 +10,7 @@ This is a study project developed as part of my programming learning journey. Th
 * Displays the collected data in an organized list, making it easy for users to view and access.
 * Enables users to explore the most recent updates from the electronic music group in one place.
 * Utilizes the MVVM (Model-View-ViewModel) architecture for clear separation of concerns.
+* Utilizes the Dagger-Hilt lib for dependency injection.
 * Employs ViewModel to manage and provide data to the UI, promoting a more robust and testable codebase.
 * Implements UI State management using StateFlow, ensuring a reactive and efficient user interface.
 * Utilizes Jetpack Compose with Material 3.
