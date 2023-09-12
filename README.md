@@ -1,4 +1,4 @@
-# Swedish House Mafia Event Tracker
+# Swedish House Mafia Concert Tracker
 
 ![Swedish House Mafia Logo](https://pbs.twimg.com/media/FQW1Xk0VIAYGZgn?format=jpg&name=medium)
 
