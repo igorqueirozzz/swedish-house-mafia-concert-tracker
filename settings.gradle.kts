@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Swedish House Mafia Event Tracker"
-include ':app'
+rootProject.name = "Swedish House Mafia Concert Tracker"
+include (":app")
